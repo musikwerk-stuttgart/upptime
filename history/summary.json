@@ -4,19 +4,19 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 2767,
     "timeDay": 3187,
     "timeWeek": 3187,
     "timeMonth": 3187,
     "timeYear": 2767,
     "dailyMinutesDown": {
-      "2023-07-14": 29
+      "2023-07-14": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1318,
     "timeDay": 1584,
     "timeWeek": 1584,
     "timeMonth": 1584,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2023-07-14": 11
+      "2023-07-14": 1
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://db.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/db.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-db",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1199,
     "timeDay": 1375,
     "timeWeek": 1375,
     "timeMonth": 1375,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2023-07-14": 11
+      "2023-07-14": 0
     }
   }
 ]
