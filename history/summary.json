@@ -4,19 +4,19 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 2813,
-    "timeDay": 3174,
-    "timeWeek": 3174,
-    "timeMonth": 3174,
-    "timeYear": 2813,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 2785,
+    "timeDay": 3051,
+    "timeWeek": 3051,
+    "timeMonth": 3051,
+    "timeYear": 2785,
     "dailyMinutesDown": {
-      "2023-07-14": 18
+      "2023-07-14": 29
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1357,
-    "timeDay": 1588,
-    "timeWeek": 1588,
-    "timeMonth": 1588,
-    "timeYear": 1357,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1335,
+    "timeDay": 1485,
+    "timeWeek": 1485,
+    "timeMonth": 1485,
+    "timeYear": 1335,
     "dailyMinutesDown": {
-      "2023-07-14": 1
+      "2023-07-14": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://db.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/db.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1405,
-    "timeWeek": 1405,
-    "timeMonth": 1405,
-    "timeYear": 1237,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1219,
+    "timeDay": 1326,
+    "timeWeek": 1326,
+    "timeMonth": 1326,
+    "timeYear": 1219,
     "dailyMinutesDown": {
-      "2023-07-14": 0
+      "2023-07-14": 11
     }
   }
 ]
