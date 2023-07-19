@@ -4,10 +4,10 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2857,
@@ -16,6 +16,7 @@
     "timeMonth": 3018,
     "timeYear": 2857,
     "dailyMinutesDown": {
+      "2023-07-19": 1,
       "2023-07-14": 17
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 1418,
     "timeYear": 1351,
     "dailyMinutesDown": {
+      "2023-07-19": 1,
       "2023-07-16": 19
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://db.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/db.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +57,8 @@
     "timeWeek": 1318,
     "timeMonth": 1318,
     "timeYear": 1254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-19": 0
+    }
   }
 ]
