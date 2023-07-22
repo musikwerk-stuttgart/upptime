@@ -46,7 +46,7 @@
     "url": "https://db.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/db.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
@@ -58,6 +58,7 @@
     "timeMonth": 1252,
     "timeYear": 1219,
     "dailyMinutesDown": {
+      "2023-07-22": 0,
       "2023-07-19": 17
     }
   }
