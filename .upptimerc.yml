@@ -17,8 +17,8 @@ sites:
     port: 25
 
 status-website:
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: status.musikwerk-stuttgart.de
+  #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/musikwerk-stuttgart/upptime/master/assets/logo-white.svg
   name: Musikwerk Status
   introTitle:
