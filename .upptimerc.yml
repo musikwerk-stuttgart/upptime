@@ -29,5 +29,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+runner: "[self-hosted, linux, X64]"
+user-agent: musikwerk-stuttgart
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
