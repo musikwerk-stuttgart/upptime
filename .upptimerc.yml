@@ -32,5 +32,14 @@ status-website:
 runner: "[self-hosted, Linux, X64]"
 user-agent: musikwerk-stuttgart
 
+workflowSchedule:
+  graphs: "27 0 * * *"
+  responseTime: "12 23 * * *"
+  staticSite: "13 1 * * *"
+  summary: "47 0 * * *"
+  updateTemplate: "37 0 * * *"
+  updates: "51 3 * * *"
+  uptime: "2/5 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
