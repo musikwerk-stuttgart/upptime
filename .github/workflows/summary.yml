@@ -10,14 +10,14 @@
 name: Summary CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "47 0 * * *"
   repository_dispatch:
     types: [summary]
   workflow_dispatch:
 jobs:
   release:
     name: Generate README
-    runs-on: [self-hosted, linux, X64]
+    runs-on: [self-hosted, Linux, X64]
     steps:
       - name: Checkout
         uses: actions/checkout@v3

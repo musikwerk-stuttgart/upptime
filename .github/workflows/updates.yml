@@ -10,14 +10,14 @@
 name: Updates CI
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "51 3 * * *"
   repository_dispatch:
     types: [updates]
   workflow_dispatch:
 jobs:
   release:
     name: Deploy updates
-    runs-on: [self-hosted, linux, X64]
+    runs-on: [self-hosted, Linux, X64]
     steps:
       - name: Checkout
         uses: actions/checkout@v3

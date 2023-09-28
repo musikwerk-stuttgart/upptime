@@ -10,14 +10,14 @@
 name: Response Time CI
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "12 23 * * *"
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
 jobs:
   release:
     name: Check status
-    runs-on: [self-hosted, linux, X64]
+    runs-on: [self-hosted, Linux, X64]
     steps:
       - name: Checkout
         uses: actions/checkout@v3

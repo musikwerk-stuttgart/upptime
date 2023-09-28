@@ -10,14 +10,14 @@
 name: Update Template CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "37 0 * * *"
   repository_dispatch:
     types: [update_template]
   workflow_dispatch:
 jobs:
   release:
     name: Build
-    runs-on: [self-hosted, linux, X64]
+    runs-on: [self-hosted, Linux, X64]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
