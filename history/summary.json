@@ -4,19 +4,19 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2821,
-    "timeDay": 2067,
-    "timeWeek": 2378,
-    "timeMonth": 2293,
-    "timeYear": 2821,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 2913,
+    "timeDay": 12653,
+    "timeWeek": 4985,
+    "timeMonth": 2969,
+    "timeYear": 2913,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 24
     }
   },
   {
