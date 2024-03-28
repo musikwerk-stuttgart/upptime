@@ -60,18 +60,20 @@
     "url": "https://intern.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/intern.musikwerk-stuttgart.de.ico",
     "slug": "interner-bereich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
-    "timeDay": 697,
-    "timeWeek": 603,
-    "timeMonth": 570,
+    "timeDay": 619,
+    "timeWeek": 595,
+    "timeMonth": 569,
     "timeYear": 593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-28": 0
+    }
   },
   {
     "name": "E-Mail",
