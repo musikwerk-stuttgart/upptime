@@ -1,7 +1,7 @@
 url: https://intern.musikwerk-stuttgart.de
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2024-03-27T23:19:17.336Z
+status: down
+code: 500
+responseTime: 540
+lastUpdated: 2024-03-28T17:17:50.855Z
 startTime: 2023-09-26T22:02:21.741Z
 generator: Upptime <https://github.com/upptime/upptime>
