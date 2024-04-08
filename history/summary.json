@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2745,
-    "timeDay": 1924,
-    "timeWeek": 2002,
-    "timeMonth": 2058,
-    "timeYear": 2749,
+    "time": 2743,
+    "timeDay": 1833,
+    "timeWeek": 1982,
+    "timeMonth": 2047,
+    "timeYear": 2746,
     "dailyMinutesDown": {
       "2023-12-13": 24
     }
@@ -26,18 +26,16 @@
     "slug": "musikwerk-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1098,
-    "timeDay": 751,
-    "timeWeek": 733,
-    "timeMonth": 802,
-    "timeYear": 1097,
-    "dailyMinutesDown": {
-      "2024-04-07": 13
-    }
+    "time": 1097,
+    "timeDay": 712,
+    "timeWeek": 734,
+    "timeMonth": 794,
+    "timeYear": 1095,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Musikwerk DB",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 839,
-    "timeWeek": 834,
-    "timeMonth": 815,
-    "timeYear": 985,
+    "time": 985,
+    "timeDay": 635,
+    "timeWeek": 795,
+    "timeMonth": 808,
+    "timeYear": 984,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +67,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 591,
-    "timeDay": 648,
-    "timeWeek": 540,
-    "timeMonth": 564,
+    "timeDay": 641,
+    "timeWeek": 565,
+    "timeMonth": 568,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2024-04-01": 26
