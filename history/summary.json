@@ -4,19 +4,19 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.92%",
     "time": 2415,
-    "timeDay": 2037,
-    "timeWeek": 1998,
-    "timeMonth": 2040,
+    "timeDay": 2108,
+    "timeWeek": 2021,
+    "timeMonth": 2045,
     "timeYear": 2284,
     "dailyMinutesDown": {
-      "2024-10-14": 0,
+      "2024-10-14": 23,
       "2024-10-03": 364,
       "2023-12-13": 24
     }
@@ -26,19 +26,19 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 996,
-    "timeWeek": 1014,
-    "timeMonth": 913,
-    "timeYear": 866,
+    "time": 953,
+    "timeDay": 1144,
+    "timeWeek": 1048,
+    "timeMonth": 926,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 23
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://db.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/db.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 826,
-    "timeWeek": 808,
-    "timeMonth": 812,
+    "time": 899,
+    "timeDay": 842,
+    "timeWeek": 814,
+    "timeMonth": 814,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 23
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://intern.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/intern.musikwerk-stuttgart.de.ico",
     "slug": "interner-bereich",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 592,
-    "timeDay": 599,
-    "timeWeek": 575,
-    "timeMonth": 578,
+    "timeDay": 604,
+    "timeWeek": 579,
+    "timeMonth": 580,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2024-10-14": 0,
+      "2024-10-14": 23,
       "2024-04-01": 26
     }
   },
@@ -87,11 +87,11 @@
     "url": "w01368ea.kasserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 95,
@@ -99,7 +99,7 @@
     "timeMonth": 95,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 23
     }
   }
 ]
