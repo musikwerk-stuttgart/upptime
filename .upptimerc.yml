@@ -5,10 +5,10 @@ repo: upptime
 sites:
   - name: www.musikwerk-stuttgart.de
     url: https://www.musikwerk-stuttgart.de
+  - name: Online-Shop
+    url: https://www.musikwerk-stuttgart.de/warenkorb/
   - name: Musikwerk Cloud
     url: https://cloud.musikwerk-stuttgart.de
-  - name: Musikwerk DB
-    url: https://db.musikwerk-stuttgart.de
   - name: Interner Bereich
     url: https://intern.musikwerk-stuttgart.de
   - name: E-Mail
@@ -30,7 +30,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 runner: "[self-hosted, Linux, X64]"
-user-agent: musikwerk-stuttgart
+user-agent: upptime-musikwerk-stuttgart
 
 workflowSchedule:
   graphs: "27 0 * * *"
