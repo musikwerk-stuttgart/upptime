@@ -30,6 +30,24 @@
     }
   },
   {
+    "name": "Online-Shop",
+    "url": "https://www.musikwerk-stuttgart.de/warenkorb/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
+    "slug": "online-shop",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1685,
+    "timeDay": 1685,
+    "timeWeek": 1685,
+    "timeMonth": 1685,
+    "timeYear": 1685,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Musikwerk Cloud",
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
@@ -49,30 +67,6 @@
       "2024-11-22": 43,
       "2024-10-15": 81,
       "2024-10-14": 77
-    }
-  },
-  {
-    "name": "Musikwerk DB",
-    "url": "https://db.musikwerk-stuttgart.de",
-    "icon": "https://icons.duckduckgo.com/ip3/db.musikwerk-stuttgart.de.ico",
-    "slug": "musikwerk-db",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 837,
-    "timeDay": 791,
-    "timeWeek": 843,
-    "timeMonth": 837,
-    "timeYear": 852,
-    "dailyMinutesDown": {
-      "2024-12-01": 67,
-      "2024-11-30": 9,
-      "2024-11-22": 42,
-      "2024-10-15": 81,
-      "2024-10-14": 76
     }
   },
   {
