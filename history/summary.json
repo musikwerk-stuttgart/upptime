@@ -52,9 +52,9 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -64,6 +64,7 @@
     "timeMonth": 975,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2025-03-29": 0,
       "2024-11-22": 43,
       "2024-10-15": 81,
       "2024-10-14": 77
