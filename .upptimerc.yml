@@ -5,16 +5,21 @@ repo: upptime
 sites:
   - name: www.musikwerk-stuttgart.de
     url: https://www.musikwerk-stuttgart.de
+    maxResponseTime: 3000
   - name: Online-Shop
     url: https://www.musikwerk-stuttgart.de/warenkorb/
+    maxResponseTime: 3000
   - name: Musikwerk Cloud
     url: https://cloud.musikwerk-stuttgart.de
+    maxResponseTime: 3000
   - name: Interner Bereich
     url: https://intern.musikwerk-stuttgart.de
+    maxResponseTime: 3000
   - name: E-Mail
     check: "tcp-ping"
     url: w01368ea.kasserver.com
     port: 25
+    maxResponseTime: 3000
 
 status-website:
   cname: status.musikwerk-stuttgart.de
