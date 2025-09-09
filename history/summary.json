@@ -47,7 +47,7 @@
     "slug": "online-shop",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.34%",
@@ -57,6 +57,7 @@
     "timeMonth": 1096,
     "timeYear": 1243,
     "dailyMinutesDown": {
+      "2025-09-09": 0,
       "2025-08-24": 24,
       "2025-08-23": 25,
       "2025-08-15": 56,
