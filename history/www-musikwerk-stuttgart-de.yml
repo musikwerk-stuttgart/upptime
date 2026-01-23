@@ -1,7 +1,7 @@
 url: https://www.musikwerk-stuttgart.de
-status: up
+status: degraded
 code: 200
-responseTime: 2612
-lastUpdated: 2026-01-23T20:48:56.450Z
+responseTime: 4980
+lastUpdated: 2026-01-23T21:36:33.998Z
 startTime: 2023-03-18T12:27:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
