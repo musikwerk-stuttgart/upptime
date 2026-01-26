@@ -1,7 +1,7 @@
 url: https://www.musikwerk-stuttgart.de/warenkorb/
-status: up
+status: degraded
 code: 200
-responseTime: 2343
-lastUpdated: 2026-01-25T23:29:34.996Z
+responseTime: 6771
+lastUpdated: 2026-01-26T23:27:51.111Z
 startTime: 2025-03-13T11:21:41.576Z
 generator: Upptime <https://github.com/upptime/upptime>
