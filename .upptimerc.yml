@@ -34,7 +34,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-runner: "[self-hosted, Linux, X64]"
+# runner: "[self-hosted, Linux, X64]"
 user-agent: upptime-musikwerk-stuttgart
 
 workflowSchedule:
