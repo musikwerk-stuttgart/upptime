@@ -4,17 +4,17 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "down",
-    "uptime": "95.51%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
+    "status": "up",
+    "uptime": "95.50%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "23.84%",
     "uptimeYear": "85.33%",
-    "time": 2842,
-    "timeDay": 2346,
-    "timeWeek": 2467,
-    "timeMonth": 2408,
-    "timeYear": 3118,
+    "time": 2843,
+    "timeDay": 2328,
+    "timeWeek": 2448,
+    "timeMonth": 2400,
+    "timeYear": 3115,
     "dailyMinutesDown": {
       "2025-08-23": 13,
       "2025-08-30": 37,
@@ -110,7 +110,7 @@
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 770,
-      "2026-08-09": 10
+      "2026-08-09": 33
     }
   },
   {
@@ -118,16 +118,16 @@
     "url": "https://www.musikwerk-stuttgart.de/warenkorb/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "online-shop",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.09%",
-    "time": 1976,
-    "timeDay": 2378,
-    "timeWeek": 2145,
-    "timeMonth": 2027,
+    "time": 1978,
+    "timeDay": 2311,
+    "timeWeek": 2157,
+    "timeMonth": 2045,
     "timeYear": 2304,
     "dailyMinutesDown": {
       "2025-08-13": 24,
@@ -159,7 +159,7 @@
       "2026-05-30": 67,
       "2026-05-31": 86,
       "2026-06-15": 151,
-      "2026-08-09": 5
+      "2026-08-09": 28
     }
   },
   {
@@ -167,17 +167,17 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 966,
-    "timeDay": 2003,
-    "timeWeek": 1618,
-    "timeMonth": 1598,
-    "timeYear": 905,
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.92%",
+    "time": 969,
+    "timeDay": 1892,
+    "timeWeek": 1638,
+    "timeMonth": 1613,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2025-10-22": 13,
       "2026-03-17": 37,
@@ -185,7 +185,7 @@
       "2026-05-11": 111,
       "2026-05-30": 66,
       "2026-05-31": 86,
-      "2026-08-09": 0
+      "2026-08-09": 23
     }
   },
   {
