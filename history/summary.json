@@ -4,13 +4,13 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "up",
+    "status": "down",
     "uptime": "95.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "32.14%",
-    "uptimeYear": "85.33%",
-    "time": 2844,
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "33.25%",
+    "uptimeYear": "85.32%",
+    "time": 2845,
     "timeDay": 2483,
     "timeWeek": 2502,
     "timeMonth": 2416,
@@ -110,7 +110,8 @@
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 770,
-      "2026-08-09": 33
+      "2026-08-09": 33,
+      "2026-08-12": 10
     }
   },
   {
@@ -118,13 +119,13 @@
     "url": "https://www.musikwerk-stuttgart.de/warenkorb/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "online-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.09%",
-    "time": 1983,
+    "time": 1985,
     "timeDay": 2099,
     "timeWeek": 2169,
     "timeMonth": 2033,
@@ -159,7 +160,8 @@
       "2026-05-30": 67,
       "2026-05-31": 86,
       "2026-06-15": 151,
-      "2026-08-09": 28
+      "2026-08-09": 28,
+      "2026-08-12": 5
     }
   },
   {
@@ -167,9 +169,9 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
@@ -185,7 +187,8 @@
       "2026-05-11": 111,
       "2026-05-30": 66,
       "2026-05-31": 86,
-      "2026-08-09": 23
+      "2026-08-09": 23,
+      "2026-08-12": 0
     }
   },
   {
