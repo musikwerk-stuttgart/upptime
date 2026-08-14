@@ -4,17 +4,17 @@
     "url": "https://www.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "www-musikwerk-stuttgart-de",
-    "status": "down",
-    "uptime": "95.52%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.17%",
+    "status": "up",
+    "uptime": "95.51%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "38.21%",
-    "uptimeYear": "85.32%",
-    "time": 2849,
-    "timeDay": 2345,
-    "timeWeek": 2472,
-    "timeMonth": 2436,
-    "timeYear": 3126,
+    "uptimeYear": "85.29%",
+    "time": 2850,
+    "timeDay": 2532,
+    "timeWeek": 2471,
+    "timeMonth": 2451,
+    "timeYear": 3125,
     "dailyMinutesDown": {
       "2025-08-23": 13,
       "2025-08-30": 37,
@@ -112,7 +112,7 @@
       "2026-06-13": 770,
       "2026-08-09": 33,
       "2026-08-12": 41,
-      "2026-08-14": 10
+      "2026-08-14": 150
     }
   },
   {
@@ -120,16 +120,16 @@
     "url": "https://www.musikwerk-stuttgart.de/warenkorb/",
     "icon": "https://icons.duckduckgo.com/ip3/www.musikwerk-stuttgart.de.ico",
     "slug": "online-shop",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.08%",
-    "time": 1993,
-    "timeDay": 1722,
-    "timeWeek": 2119,
-    "timeMonth": 2038,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.06%",
+    "time": 1995,
+    "timeDay": 2068,
+    "timeWeek": 2112,
+    "timeMonth": 2058,
     "timeYear": 2328,
     "dailyMinutesDown": {
       "2025-08-15": 56,
@@ -162,7 +162,7 @@
       "2026-06-15": 151,
       "2026-08-09": 28,
       "2026-08-12": 37,
-      "2026-08-14": 5
+      "2026-08-14": 145
     }
   },
   {
@@ -170,17 +170,17 @@
     "url": "https://cloud.musikwerk-stuttgart.de",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.musikwerk-stuttgart.de.ico",
     "slug": "musikwerk-cloud",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.92%",
-    "time": 984,
-    "timeDay": 1537,
-    "timeWeek": 1746,
-    "timeMonth": 1668,
-    "timeYear": 940,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.89%",
+    "time": 987,
+    "timeDay": 1739,
+    "timeWeek": 1772,
+    "timeMonth": 1683,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-10-22": 13,
       "2026-03-17": 37,
@@ -190,7 +190,7 @@
       "2026-05-31": 86,
       "2026-08-09": 23,
       "2026-08-12": 32,
-      "2026-08-14": 0
+      "2026-08-14": 140
     }
   },
   {
@@ -206,7 +206,7 @@
     "uptimeYear": "99.97%",
     "time": 652,
     "timeDay": 1067,
-    "timeWeek": 1231,
+    "timeWeek": 1216,
     "timeMonth": 1193,
     "timeYear": 665,
     "dailyMinutesDown": {
@@ -228,7 +228,7 @@
     "uptimeYear": "99.98%",
     "time": 97,
     "timeDay": 109,
-    "timeWeek": 132,
+    "timeWeek": 127,
     "timeMonth": 131,
     "timeYear": 99,
     "dailyMinutesDown": {
